@@ -1,13 +1,30 @@
 
-main {
-	height: 90%;
-}
-
 header {
 	margin-top: 20px;
 	margin-left: 20px;
 	margin-right: 50px;
 }
+
+main {
+	height: 75%;
+	padding-top: 100px;
+}
+
+div#content {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+	font-family: 'Circular-Book',Arial,sans-serif;
+	color: #757575;
+}
+
+div#content a {
+	text-decoration: none;
+	color: #6DB5D6;
+}
+
+
 
 div#logo img {
 	width: 134px;
@@ -28,6 +45,11 @@ div#product a {
 
 div#product a:hover {
 	color: #000000;
+}
+
+div#logo2 img {
+	width: 100px;
+	height: 89px;
 }
 
 footer {

@@ -1,0 +1,52 @@
+
+header {
+	height: 15%;
+	margin-top: 30px;
+	margin-left: 20px;
+	margin-right: 60px;
+}
+
+div#logo img {
+	width: 134px;
+	height: 30px;
+	float: left;
+}
+
+div#content {
+	height: 75%;	
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+	font-family: 'Circular-Book',Arial,sans-serif;
+	color: #757575;
+}
+
+ul#record {
+	list-style: none;
+	height: 70%;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0px;
+	line-height: 60px;
+}
+
+ul.year {
+	list-style: none;
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0px;
+	line-height: 30px;
+}
+
+li a {
+	text-decoration: none;
+	color: #6DB5D6;
+}
+
+footer {
+	text-align: center;
+	padding-top: 70px;
+	font-size: 12px;
+}

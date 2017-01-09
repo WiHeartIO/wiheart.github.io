@@ -1,29 +1,10 @@
 
 header {
-	margin-top: 20px;
+	height: 15%;
+	margin-top: 30px;
 	margin-left: 20px;
-	margin-right: 50px;
+	margin-right: 60px;
 }
-
-main {
-	height: 75%;
-	padding-top: 100px;
-}
-
-div#content {
-	width: 60%;
-	margin-left: auto;
-	margin-right: auto;
-	font-size: 18px;
-	font-family: 'Circular-Book',Arial,sans-serif;
-	color: #757575;
-}
-
-div#content a {
-	text-decoration: none;
-	color: #6DB5D6;
-}
-
 
 
 div#logo img {
@@ -52,6 +33,24 @@ div#logo2 img {
 	height: 89px;
 }
 
+div#content {
+	height: 75%;	
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 18px;
+	font-family: 'Circular-Book',Arial,sans-serif;
+	color: #757575;
+}
+
+div#content a {
+	text-decoration: none;
+	color: #6DB5D6;
+}
+
+
 footer {
 	text-align: center;
+	padding-top: 70px;
+	font-size: 12px;
 }
